@@ -40,4 +40,6 @@ Work effectively in a team environment
 
 The project gave us valuable experience in database design, API development, and creating user-friendly interfaces. We're proud of what we accomplished in our second year and hope to build even more impactful solutions in the future!
 
+🎥 Above is a short video demonstrating the mobile app in action!
+
 
