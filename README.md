@@ -27,3 +27,17 @@ Set up the database using the provided ERD schemas
 Run the PHP backend services
 
 Launch the mobile app interface
+
+While this app was created as a university project, we hope it demonstrates our ability to:
+
+Design functional full-stack systems
+
+Implement core security practices
+
+Solve real-world problems through technology
+
+Work effectively in a team environment
+
+The project gave us valuable experience in database design, API development, and creating user-friendly interfaces. We're proud of what we accomplished in our second year and hope to build even more impactful solutions in the future!
+
+
