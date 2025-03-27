@@ -1,5 +1,5 @@
 # Mobile-App-Generosity-Gateway-
-#What the Project Does
+
 Generosity Gateway is a second-year university project (developed by a team of 4 students) that creates a mobile app connecting donors with recipients for resource sharing. The app allows users to:
 
 Donate items from a predefined list (no quantity limits)
